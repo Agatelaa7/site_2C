@@ -22,7 +22,7 @@
     
     .cabeçalho_lista_item{
     margin: 40px 0px 40px 0px;
-    font-size: 20px;
+    font-size: 70px;
     }
     
     .apresentaçao_trabalho{
@@ -34,7 +34,7 @@
     }
     
     .titulo_apresentaçao_trabalho{
-    font-size: 30px;
+    font-size: 40px;
     }
     
     .imagem_arvore{
@@ -64,7 +64,7 @@
         
         .cabeçalho_lista_item{
         margin: 25px 0px 25px 0px;
-        font-size: 16px;
+        font-size: 30px;
         }
         
         .apresentaçao_trabalho{
