@@ -5,7 +5,7 @@
     
     .cabeçalho{
     background-color: rgb(249, 205, 255);
-    color: rgba(0, 0, 0, 0.007);
+    color: rgba(0, 0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
