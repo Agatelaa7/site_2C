@@ -40,3 +40,45 @@
     .imagem_arvore{
     width: 15%;
     }
+    * {
+        margin: 0%;
+        padding: 0%;
+        }
+        
+        .cabeçalho{
+        background-color: rgb(249, 205, 255);
+        color: rgba(0, 0, 0, 0.007);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
+        
+        .cabeçalho_imagem{
+        width: 12%;
+        }
+        
+        .cabeçalho_titulo{
+        font-size: 50px;
+        }
+        
+        .cabeçalho_lista_item{
+        margin: 25px 0px 25px 0px;
+        font-size: 16px;
+        }
+        
+        .apresentaçao_trabalho{
+        background-image: linear-gradient(rgb(255, 205, 248), #c61add);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
+        
+        .titulo_apresentaçao_trabalho{
+        font-size: 30px;
+        }
+        
+        .imagem_arvore{
+        width: 15%;
+        }
