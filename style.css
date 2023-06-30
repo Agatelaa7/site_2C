@@ -20,6 +20,10 @@
     font-size: 90px;
     }
     
+.texto-apresentacao{
+    font-size: 90px;
+}
+
     .cabeçalho_lista_item{
     margin: 80px 0px 80px 0px;
     font-size: 90px;
@@ -35,6 +39,10 @@
     
     .titulo_apresentaçao_trabalho{
     font-size: 90px;
+    }
+
+    .texto-segundo{
+        font-size: 90px;
     }
     
     .imagem_arvore{
