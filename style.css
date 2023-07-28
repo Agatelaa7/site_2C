@@ -17,11 +17,12 @@
     }
     
     .cabeçalho_titulo{
-    font-size: 90px;
+    font-size: 60px;
+    font-family:Arial, Helvetica, sans-serif;
     }
     
 .texto-apresentacao{
-    font-size: 90px;
+    font-size: 60px;
 }
 
     .cabeçalho_lista_item{
