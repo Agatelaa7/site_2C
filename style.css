@@ -52,7 +52,7 @@
     }
     
     .imagem_arvore{
-    width: 20%;
+    width: 10%;
     }
     * {
         margin: 0%;
@@ -69,7 +69,7 @@
         }
         
         .cabeçalho_imagem{
-        width: 20%;
+        width: 10%;
         }
         
         .cabeçalho_titulo{
@@ -94,5 +94,5 @@
         }
         
         .imagem_arvore{
-        width: 20%;
+        width: 10%;
         }
