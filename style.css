@@ -38,7 +38,10 @@
     }
     
     .titulo_apresentaçao_trabalho{
-    font-size: 90px;
+        font-size: 90px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0%;
+        padding: 0%;
     }
 
     .texto-segundo{
