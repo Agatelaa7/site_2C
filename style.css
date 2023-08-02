@@ -4,7 +4,7 @@
     }
     
     .cabeçalho{
-    background-color: rgb(249, 205, 255);
+    background-color:(rgb(249, 205, 255), #c61add);
     color: rgb(19, 16, 16);
     display: flex;
     justify-content: space-around;
@@ -13,27 +13,27 @@
     }
     
     .cabeçalho_imagem{
-    width: 30%;
+    width: 10%;
     }
     
     .cabeçalho_titulo{
-    font-size: 90px;
+    font-size: 30px;
     font-family:Arial, Helvetica, sans-serif;
     }
     
    .texto-apresentacao{
-    font-size: 60px;
+    font-size: 30px;
     font-family:Arial, Helvetica, sans-serif;
     }
 
    .texto-apresentaçao{
-    font-size: 60px;
+    font-size: 30px;
     font-family:Arial, Helvetica, sans-serif;
     }
 
     .cabeçalho_lista_item{
-    margin: 60px 0px 60px 0px;
-    font-size: 50px;
+    margin: 30px 0px 30px 0px;
+    font-size: 30px;
     }
     
     .apresentaçao_trabalho{
@@ -45,14 +45,14 @@
     }
     
     .titulo_apresentaçao_trabalho{
-        font-size: 60px;
+        font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 0%;
         padding: 0%;
     }
 
     .texto-segundo{
-        font-size: 60px;
+        font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 0%;
         padding: 0%;
@@ -67,7 +67,7 @@
         }
         
         .cabeçalho{
-        background-color: rgb(249, 205, 255);
+        background-color:( rgb(249, 205, 255), #c61add);
         color: rgba(49, 29, 29, 0.966);
         display: flex;
         justify-content: space-around;
@@ -80,12 +80,12 @@
         }
         
         .cabeçalho_titulo{
-        font-size: 90px;
+        font-size: 30px;
         }
         
         .cabeçalho_lista_item{
         margin: 25px 0px 25px 0px;
-        font-size: 90px;
+        font-size: 30px;
         }
         
         .apresentaçao_trabalho{
@@ -96,14 +96,14 @@
         padding: 24px 0;
         }
         .texto-segundo{
-        font-size: 60px;
+        font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 0%;
         padding: 0%;
         }
         
         .titulo_apresentaçao_trabalho{
-        font-size: 90px;
+        font-size: 30px;
         }
         
         .imagem_arvore{
