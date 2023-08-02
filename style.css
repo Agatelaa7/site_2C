@@ -17,23 +17,23 @@
     }
     
     .cabeçalho_titulo{
-    font-size: 30px;
+    font-size: 60px;
     font-family:Arial, Helvetica, sans-serif;
     }
     
    .texto-apresentacao{
-    font-size: 30px;
+    font-size: 60px;
     font-family:Arial, Helvetica, sans-serif;
     }
 
    .texto-apresentaçao{
-    font-size: 30px;
+    font-size: 60px;
     font-family:Arial, Helvetica, sans-serif;
     }
 
     .cabeçalho_lista_item{
-    margin: 30px 0px 30px 0px;
-    font-size: 30px;
+    margin: 60px 0px 60px 0px;
+    font-size: 60px;
     }
     
     .apresentaçao_trabalho{
@@ -45,14 +45,14 @@
     }
     
     .titulo_apresentaçao_trabalho{
-        font-size: 30px;
+        font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 0%;
         padding: 0%;
     }
 
     .texto-segundo{
-        font-size: 30px;
+        font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 0%;
         padding: 0%;
@@ -80,12 +80,12 @@
         }
         
         .cabeçalho_titulo{
-        font-size: 30px;
+        font-size: 60px;
         }
         
         .cabeçalho_lista_item{
         margin: 25px 0px 25px 0px;
-        font-size: 30px;
+        font-size: 60px;
         }
         
         .apresentaçao_trabalho{
@@ -96,14 +96,14 @@
         padding: 24px 0;
         }
         .texto-segundo{
-        font-size: 30px;
+        font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 0%;
         padding: 0%;
         }
         
         .titulo_apresentaçao_trabalho{
-        font-size: 30px;
+        font-size: 60px;
         }
         
         .imagem_arvore{
