@@ -1,5 +1,5 @@
 * {
-    margin: 10%;
+    margin: 0%;
     padding: 10%;
     }
     
@@ -16,35 +16,35 @@
     
     .cabeçalho_imagem{
         width: 10%;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
     
     .cabeçalho_titulo{
         font-size: 60px;
         font-family:Arial, Helvetica, sans-serif;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
     
    .texto-apresentacao{
         font-size: 60px;
         font-family:Arial, Helvetica, sans-serif;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
 
    .texto-apresentaçao{
         font-size: 60px;
         font-family:Arial, Helvetica, sans-serif;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
 
     .cabeçalho_lista_item{
         margin: 60px 0px 60px 0px;
         font-size: 60px;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
     
@@ -54,21 +54,21 @@
         justify-content: space-around;
         align-items: center;
         padding: 24px 0;
-        margin: 20%;
+        margin: 0%;
         padding: 10%; 
     }
     
     .titulo_apresentaçao_trabalho{
         font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
 
     .texto-segundo{
         font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 10%;
+        margin: 0%;
         padding: 10%;
     }
     
@@ -87,13 +87,13 @@
         justify-content: space-around;
         align-items: center;
         padding: 24px 0;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
         
     .cabeçalho_imagem{
         width: 10%;
-        margin: 20%;
+        margin: 0%;
         padding: 10%;
     }
         
