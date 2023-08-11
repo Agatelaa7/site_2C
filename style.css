@@ -1,6 +1,6 @@
 * {
-    margin: 0%;
-    padding: 0%;
+    margin: 5%;
+    padding: 5%;
     }
     
     .cabeçalho{
@@ -8,42 +8,42 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
     
     .cabeçalho_imagem{
         width: 10%;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
     
     .cabeçalho_titulo{
         font-size: 60px;
         font-family:Arial, Helvetica, sans-serif;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
     
    .texto-apresentacao{
         font-size: 60px;
         font-family:Arial, Helvetica, sans-serif;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
 
    .texto-apresentaçao{
         font-size: 60px;
         font-family:Arial, Helvetica, sans-serif;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
 
     .cabeçalho_lista_item{
         margin: 0px 0px 0px 0px;
         font-size: 60px;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
     
     .apresentaçao_trabalho{
@@ -51,22 +51,22 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-        margin: 0%;
-        padding: 0%; 
+        margin: 5%;
+        padding: 5%; 
     }
     
     .titulo_apresentaçao_trabalho{
         font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
 
     .texto-segundo{
         font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
     
     .imagem_arvore{
@@ -74,8 +74,8 @@
     }
 
     * {
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
         
     .cabeçalho{
@@ -84,14 +84,14 @@
         display: flex;
         justify-content: space-around;
         align-items: center;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
         
     .cabeçalho_imagem{
         width: 10%;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
         
     .cabeçalho_titulo{
@@ -113,8 +113,8 @@
     .texto-segundo{
         font-size: 60px;
         font-family: Arial, Helvetica, sans-serif;
-        margin: 0%;
-        padding: 0%;
+        margin: 5%;
+        padding: 5%;
     }
         
     .titulo_apresentaçao_trabalho{
