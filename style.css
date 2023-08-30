@@ -19,21 +19,21 @@
     }
     
     .cabeçalho_titulo{
-        font-size: 60px;
+        font-size: 30px;
         font-family:Arial, Helvetica, sans-serif;
         margin: 5%;
         padding: 5%;
     }
     
    .texto-apresentacao{
-        font-size: 60px;
+        font-size: 30px;
         font-family:Arial, Helvetica, sans-serif;
         margin: 5%;
         padding: 5%;
     }
 
    .texto-apresentaçao{
-        font-size: 60px;
+        font-size: 30px;
         font-family:Arial, Helvetica, sans-serif;
         margin: 5%;
         padding: 5%;
@@ -41,7 +41,7 @@
 
     .cabeçalho_lista_item{
         margin: 0px 0px 0px 0px;
-        font-size: 60px;
+        font-size: 30px;
         margin: 5%;
         padding: 5%;
     }
@@ -56,21 +56,21 @@
     }
     
     .titulo_apresentaçao_trabalho{
-        font-size: 60px;
+        font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 5%;
         padding: 5%;
     }
 
     .texto-segundo{
-        font-size: 60px;
+        font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 5%;
         padding: 5%;
     }
     
     .imagem_arvore{
-    width: 10%;
+    width: 5%;
     }
 
     * {
@@ -95,12 +95,12 @@
     }
         
     .cabeçalho_titulo{
-        font-size: 60px;
+        font-size: 30px;
     }
         
     .cabeçalho_lista_item{
         margin: 0px 0px 0px 0px;
-        font-size: 60px;
+        font-size: 30px;
     }
         
     .apresentaçao_trabalho{
@@ -111,23 +111,23 @@
         padding: 0px 0;
     }
     .texto-segundo{
-        font-size: 60px;
+        font-size: 30px;
         font-family: Arial, Helvetica, sans-serif;
         margin: 5%;
         padding: 5%;
     }
         
     .titulo_apresentaçao_trabalho{
-        font-size: 60px;
+        font-size: 30px;
     }
         
     .imagem_arvore{
-        width: 10%;
+        width: 5%;
     }
         
     .cabeçaho_titulo{
-        font-size: 60px;
+        font-size: 30px;
     }
     .texto-apresentacao{
-        font-size: 60px;
+        font-size: 30px;
     }
