@@ -5,8 +5,6 @@
     
     .cabeçalho{
         background-image: linear-gradient(rgb(255, 205, 248), #c61add);
-        display: flex;
-        justify-content: space-around;
         align-items: center;
     }
     
