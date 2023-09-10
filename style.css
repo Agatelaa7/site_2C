@@ -88,7 +88,18 @@
     }
         
     .cabeçalho_titulo{
-        font-size: 30px;
+        background-color:( rgb(249, 205, 255), #c61add);
+        color: rgba(49, 29, 29, 0.966);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        margin: 3%;
+        padding: 3%;
+    }
+    .pimenta grupo.jpeg{
+        width: 3%
+        margin: 3%;
+        padding: 3%;
     }
         
     .cabeçalho_lista_item{
