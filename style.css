@@ -87,18 +87,18 @@
         padding: 3%;
     }
         
-    cabeçalho_titulo{
+    .pimenta grupo.jpeg{
+        width: 10%;
+        margin: 3%;
+        padding: 3%;
+    }
+
+    .cabeçalho_titulo{
         background-color:( rgb(249, 205, 255), #c61add);
         color: rgba(49, 29, 29, 0.966);
         display: flex;
         justify-content: space-around;
         align-items: center;
-        margin: 3%;
-        padding: 3%;
-    }
-    
-    .pimenta grupo.jpeg{
-        width: 10%;
         margin: 3%;
         padding: 3%;
     }
